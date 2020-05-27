@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/social_network/static/css/main.5b8c8ba7.chunk.css",
-    "main.js": "/social_network/static/js/main.8f67fd22.chunk.js",
-    "main.js.map": "/social_network/static/js/main.8f67fd22.chunk.js.map",
-    "runtime-main.js": "/social_network/static/js/runtime-main.98ecd959.js",
-    "runtime-main.js.map": "/social_network/static/js/runtime-main.98ecd959.js.map",
-    "static/js/2.fda7e36e.chunk.js": "/social_network/static/js/2.fda7e36e.chunk.js",
-    "static/js/2.fda7e36e.chunk.js.map": "/social_network/static/js/2.fda7e36e.chunk.js.map",
-    "index.html": "/social_network/index.html",
-    "precache-manifest.af4bf9374bcc0427ed8df7b72fd904cf.js": "/social_network/precache-manifest.af4bf9374bcc0427ed8df7b72fd904cf.js",
-    "service-worker.js": "/social_network/service-worker.js",
-    "static/css/main.5b8c8ba7.chunk.css.map": "/social_network/static/css/main.5b8c8ba7.chunk.css.map",
-    "static/js/2.fda7e36e.chunk.js.LICENSE.txt": "/social_network/static/js/2.fda7e36e.chunk.js.LICENSE.txt",
-    "static/media/avatar.png": "/social_network/static/media/avatar.de470447.png"
+    "main.css": "/demo-social/static/css/main.5b8c8ba7.chunk.css",
+    "main.js": "/demo-social/static/js/main.ffe594aa.chunk.js",
+    "main.js.map": "/demo-social/static/js/main.ffe594aa.chunk.js.map",
+    "runtime-main.js": "/demo-social/static/js/runtime-main.09b635c1.js",
+    "runtime-main.js.map": "/demo-social/static/js/runtime-main.09b635c1.js.map",
+    "static/js/2.fda7e36e.chunk.js": "/demo-social/static/js/2.fda7e36e.chunk.js",
+    "static/js/2.fda7e36e.chunk.js.map": "/demo-social/static/js/2.fda7e36e.chunk.js.map",
+    "index.html": "/demo-social/index.html",
+    "precache-manifest.d39cde21c2802476f4295319f26bce54.js": "/demo-social/precache-manifest.d39cde21c2802476f4295319f26bce54.js",
+    "service-worker.js": "/demo-social/service-worker.js",
+    "static/css/main.5b8c8ba7.chunk.css.map": "/demo-social/static/css/main.5b8c8ba7.chunk.css.map",
+    "static/js/2.fda7e36e.chunk.js.LICENSE.txt": "/demo-social/static/js/2.fda7e36e.chunk.js.LICENSE.txt",
+    "static/media/avatar.png": "/demo-social/static/media/avatar.de470447.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.98ecd959.js",
+    "static/js/runtime-main.09b635c1.js",
     "static/js/2.fda7e36e.chunk.js",
     "static/css/main.5b8c8ba7.chunk.css",
-    "static/js/main.8f67fd22.chunk.js"
+    "static/js/main.ffe594aa.chunk.js"
   ]
 }
